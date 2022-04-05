@@ -1,1 +1,2 @@
-created content.txt in clear-branch
+1. created content.txt in clear-branch
+2. create content.txt in cherry-branch
